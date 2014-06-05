@@ -1,0 +1,3 @@
+---
+host: my_ha_host
+api_password: my_api_password
